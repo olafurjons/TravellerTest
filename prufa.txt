@@ -1,1 +1,3 @@
 Hér er lína 1
+
+Hér er lína 2
